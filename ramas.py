@@ -14,5 +14,6 @@ prediction = clf.predict([[190,70,43]])
 
 print(prediction)
 
-print("Estamos claros")
+
+
 
